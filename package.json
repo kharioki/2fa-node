@@ -1,0 +1,24 @@
+{
+  "name": "2fa-nodejs",
+  "version": "1.0.0",
+  "description": "A two factor auth implementation with speakeasy on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharioki/2fa-node.git"
+  },
+  "keywords": [
+    "2fa",
+    "speakeasy",
+    "nodejs"
+  ],
+  "author": "kharioki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharioki/2fa-node/issues"
+  },
+  "homepage": "https://github.com/kharioki/2fa-node#readme"
+}
